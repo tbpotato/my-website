@@ -71,6 +71,12 @@
 | 腹部 | 左下腹與骨盆腸段 | 193–194 |
 | 腹部 | 腹股溝與陰囊 | 195–200 |
 
-HTML SHA-256：`721f49d3bbd4cafc84e51802f199406f20f2d24c8aa0a8abadd865bf44f78bf1`
+網站發布版 HTML SHA-256：`721f49d3bbd4cafc84e51802f199406f20f2d24c8aa0a8abadd865bf44f78bf1`
 
-GitHub Pages 發布結果待完成後追加。
+GitHub Pages 已確認顯示本次新順序：[網站](https://tbpotato.github.io/my-website/)。
+
+發布排序提交：87f95f6。線上 HTML 與排序 CSV 在統一換行格式後，內容與已驗證本機檔案完全一致；200 個線上圖片網址皆回應 HTTP 200。Git 僅將 Windows CRLF 換行轉為 LF，沒有題目內容差異。
+
+本次發布更新 index.html、解剖排序對照.csv、HTML排序驗證報告.md 三份檔案。Anki 套牌、Anki 操作說明、200 張媒體與其他既有內容未更動。
+
+網站棘上肌與棘下肌已連續顯示為第 021、022 題，確認畫面保存於同資料夾的 HTML網站新順序確認.png。
